@@ -19,3 +19,8 @@
 #### Ctrl+K+C and Ctrl+K+U (Keep on holding control until you place C or U) 
 #### Hold Ctrl. Press K and let go of K. Press C without letting go of Ctrl or you can tap control twice like this Ctrl+K Ctrl+C.
 ![Comment Shortcut](CommentShortcut.gif)
+
+## Shortcut to rename your variable at all parts of your code
+#### Press Ctrl+R+R (R two times). Rename your variable. Then press enter. 
+#### You can see now your variable is automatically changed in all parts of your code.
+![Rename Variable](RenameVariable.gif)
