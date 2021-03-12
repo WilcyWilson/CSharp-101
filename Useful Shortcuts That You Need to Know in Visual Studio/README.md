@@ -9,4 +9,8 @@
 
 ## Shortcut to jump to single words instead of single character at a time while using arrow keys
 #### Ctrl+left or right arrow keys.
-![Copy](SingleCharacterJump.gif)
+![Single Character](SingleCharacterJump.gif)
+
+## Keyboard only shorcut to select multiple lines of code in desired dimension like square or rectangle
+#### Alt+Shift+Arrow keys up or down
+![Keyboard Only](KeyboardOnly.gif)
