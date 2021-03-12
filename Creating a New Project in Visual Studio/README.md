@@ -6,3 +6,6 @@
 ## Shortcut to bring selected code to one tab space to the left
 #### Shift+Tab
 ![Tab](LeftTab.gif)
+
+## Creating a new Console App project in Visual Studio
+![Create](Create.gif)
