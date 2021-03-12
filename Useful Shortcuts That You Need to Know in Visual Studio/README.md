@@ -24,3 +24,7 @@
 #### Press Ctrl+R+R (R two times). Rename your variable. Then press enter. 
 #### You can see now your variable is automatically changed in all parts of your code.
 ![Rename Variable](RenameVariable.gif)
+
+## Shortcut to move single row or rows of code one step down or up at a time in Visual Studio
+#### Alt+arrow key up or down. 
+![Single Row](SingleRow.gif)
