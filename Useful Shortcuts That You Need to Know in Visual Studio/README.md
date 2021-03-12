@@ -12,7 +12,7 @@
 ![Single Character](SingleCharacterJump.gif)
 
 ## Keyboard only shorcut to select multiple lines of code in desired dimension like square or rectangle
-#### Alt+Shift+Arrow keys up or down
+#### Alt+Shift+Arrow keys up or down.
 ![Keyboard Only](KeyboardOnly.gif)
 
 ## Shortcut to comment out and uncomment the selected rows of code
@@ -28,3 +28,7 @@
 ## Shortcut to move single row or rows of code one step down or up at a time in Visual Studio
 #### Alt+arrow key up or down. 
 ![Single Row](SingleRow.gif)
+
+## Shortcut to indent or format your code automatically if your code is strangely formated in Visual Studio
+#### Ctrl+K+D 
+![Format Code](Format.gif)
