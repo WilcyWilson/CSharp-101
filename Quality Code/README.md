@@ -4,6 +4,6 @@
 ![camelCase](VariableNameFormat.jpg)
 
 ## Curly Brackets { } position in C# Language
-#### Unlike Java. The curly Brackets should always be in a new row as shown below: 
+#### Unlike Java, The curly Brackets should always be in a new row as shown below: 
 #### Just a format option not a must.
 ![Curly Bracket](CurlyBracket.jpg)
